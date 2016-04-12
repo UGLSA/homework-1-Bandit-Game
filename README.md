@@ -1,1 +1,1 @@
-# homework-1-Bandit-game
+# homework-1
