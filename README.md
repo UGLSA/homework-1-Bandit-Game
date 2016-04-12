@@ -1,7 +1,11 @@
 # Homework-1
 
-Issues faced  
-Since I am new to Linux environment I had no knowledge in Linux terminal and its' commands.So at first I have to search the web and get some knowledge in that. 
+
+####Learning / Conclusion
+
+Since I am new to Linux environment I had no knowledge in Linux terminal and its' commands. So it took some time to learn and get some knowledge before starting the game and while playing it. While playing the game I have used the referenced  links in the OverTheWire site and used the terminal to learn about commands using "man" and also I searched in the web about some commands and examples of using them to get in to learn and understand more.
+
+This game gave me an opportunity to experience in Linux commands just playing a game. At the end of the day I have gained a lot knowledge insensibly by an interesting way.
 
 #####level 0 
 
