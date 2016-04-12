@@ -45,11 +45,11 @@ level 6
 
 level 7
 
-![8](https://cloud.githubusercontent.com/assets/12979917/14468424/2f9b5d6a-00fd-11e6-922c-7bd7d82d48fb.png)
-
-level 8 
 
 ![9](https://cloud.githubusercontent.com/assets/12979917/14468316/bb76ac1e-00fc-11e6-8548-946721769d06.png)
+level 8 
+
+![8](https://cloud.githubusercontent.com/assets/12979917/14468424/2f9b5d6a-00fd-11e6-922c-7bd7d82d48fb.png)
 
 level 9
 
