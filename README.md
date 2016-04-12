@@ -69,5 +69,5 @@ Then I changed the order of the pattern then got the correct answer.
 
 ![12-ii](https://cloud.githubusercontent.com/assets/12979917/14467535/63a36764-00f9-11e6-9d8b-560abaf4daa2.png)
 
-level 11 
+
 
