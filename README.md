@@ -43,7 +43,8 @@ At first I thought since I am in the inhere folder the find command will find th
 ![6](https://cloud.githubusercontent.com/assets/12979917/14466837/39ad1ba6-00f6-11e6-86e1-d42860d16ee9.png)
 
 #####level 6
- ............
+
+In this level at first I used the command wihtout the "2>/dev/null" part.Then a huge list came out saying most of them are permission denied. To filter the list I have add the above part at the end.
  
 ![7](https://cloud.githubusercontent.com/assets/12979917/14467053/26f1649e-00f7-11e6-9e14-8e3d92021a35.png)
 
