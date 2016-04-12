@@ -5,13 +5,13 @@ Since I am new to Linux environment I had no knowledge in Linux terminal and its
 
 level 0 
 
-First I faced an issue with logging in to the game.The issues is not using the username after reading the reference articles mentioned in the site I have realised the issue.
+First I faced an issue with logging in to the game. The issues is not using the username.After reading the reference articles mentioned in the site I have realized the issue.
 
 #![1](https://cloud.githubusercontent.com/assets/12979917/14460781/077efcf8-00dd-11e6-804f-2de0e825c351.png)
 
 level 1
 
-Here I tried using same commands as level 0 but didn't work same as earlier by reading referneced links got to know that if just use the "-" command line thinks that I am trying type a command. 
+Here I tried using same commands as level 0 but didn't work same as earlier by reading referenced links got to know that if "-" is used in command line, it thinks that user is trying type a command so there is another way of doing that.
 
 ![2](https://cloud.githubusercontent.com/assets/12979917/14461123/d5eff5d2-00de-11e6-8848-99cf78fd1015.png)
 
@@ -21,20 +21,20 @@ level 2
 
 level 3
 
-In this level I have no idea about the ". .. " part. Later I figure it out that they indicate current folder and current folder and .file means a hidden file
+In this level I have no idea about the ". .. " part. Later I figure it out that they indicate current folder and the parent folder and  ".hidden" indicates the hidden file.
 
 ![4](https://cloud.githubusercontent.com/assets/12979917/14461366/dc09967a-00df-11e6-8db1-3c63e34424c7.png)
 
 level 4
 
-In this level I used "ls -l" command but all the files listed are same in size and not executable so to check whcih one is the human readable file I have to use the "file" command
+In this level I used "ls -l" command but all the files listed are same in size and not executable so to check which one is the human readable file I have to use the "file" command.
 
 ![5-i](https://cloud.githubusercontent.com/assets/12979917/14466455/8e1c083e-00f4-11e6-85a9-9189cdfdb17f.png)
 ![5-ii](https://cloud.githubusercontent.com/assets/12979917/14466565/f8c2bce6-00f4-11e6-87c9-7ee98f7f9d0a.png)
 
 level 5 
 
-At first I thought since I am in the inhere folder the find command will find the relevant file in the cureent folder so I didn't use "." thing.Then realsed I have to use it.
+At first I thought since I am in the inhere folder the find command will find the relevant file in the current folder so I didn't use ".". It didn't worked.
 
 ![6](https://cloud.githubusercontent.com/assets/12979917/14466837/39ad1ba6-00f6-11e6-86e1-d42860d16ee9.png)
 
