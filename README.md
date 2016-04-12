@@ -13,7 +13,7 @@ level 1
 
 Here I tried using same commands as level 0 but didn't work same as earlier by reading referenced links got to know that if "-" is used in command line, it thinks that user is trying type a command so there is another way of doing that.
 
-![2](https://cloud.githubusercontent.com/assets/12979917/14461123/d5eff5d2-00de-11e6-8848-99cf78fd1015.png)
+![2](https://cloud.githubusercontent.com/assets/12979917/14470857/592869be-0109-11e6-883c-6871a75b547f.jpg)
 
 level 2
 
@@ -49,7 +49,7 @@ level 7
 
 level 8 
 
-![9](https://cloud.githubusercontent.com/assets/12979917/14468424/2f9b5d6a-00fd-11e6-922c-7bd7d82d48fb.png)
+![9](https://cloud.githubusercontent.com/assets/12979917/14471108/7ff9c956-010a-11e6-9d3f-2369fc809ec6.jpg)
 
 level 9
 
